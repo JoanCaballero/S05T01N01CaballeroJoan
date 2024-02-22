@@ -12,7 +12,6 @@ import java.util.Optional;
 @Component
 public class UpdateCommand {
 
-    //TODO: A chuparla
     private static SucursalRepository sucursalRepository;
 
     @Autowired
